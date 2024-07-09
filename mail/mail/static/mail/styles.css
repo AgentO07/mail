@@ -1,3 +1,22 @@
 textarea {
     min-height: 400px;
 }
+
+
+.email-box {
+    border: 1px solid #526faa; /* Light grey border */
+    padding: 5px;
+    margin: 5x 0;
+    border-radius: 5px;
+    position: relative;
+    background-color: #eef1f3; /* White background */
+}
+
+.email-box:hover {
+    background-color: #7c95b5; /* Slightly darker background on hover */
+    cursor: pointer;
+}
+
+.email-unread {
+    background-color: hsla(180, 7%, 62%, 0.575); /* Different color for unread emails */
+}
