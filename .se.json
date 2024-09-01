@@ -1,0 +1,48 @@
+{
+    "timestamp": "2024-08-31T00:43:28.983456",
+    "rating": "3 stars",
+    "sentences": [
+        {
+            "sentence": "Recently we went to Ghazibo at Khaled Damol.",
+            "keywords": [
+                "Ghazibo",
+                "Damol",
+                "Khaled"
+            ],
+            "ternary": {
+                "neutral": 0.9497194886207581,
+                "positive": 0.04263488948345184
+            },
+            "emotion": {
+                "joy": 0.18886762857437134,
+                "surprise": 0.11374855041503906,
+                "sadness": 0.03621472045779228,
+                "disgust": 0.0070708394050598145,
+                "fear": 0.003481703344732523,
+                "anger": 0.0015469420468434691,
+                "neutral": 0.649069607257843
+            }
+        },
+        {
+            "sentence": "We have been to multiple restaurants by Ghazibo and have really loved their food always.",
+            "keywords": [
+                "Ghazibo",
+                "restaurants",
+                "food"
+            ],
+            "ternary": {
+                "positive": 0.9833290576934814,
+                "neutral": 0.014158646576106548
+            },
+            "emotion": {
+                "joy": 0.3924564719200134,
+                "surprise": 0.021546384319663048,
+                "disgust": 0.009639912284910679,
+                "sadness": 0.007466461509466171,
+                "anger": 0.0034090776462107897,
+                "fear": 0.0017005549743771553,
+                "neutral": 0.5637811422348022
+            }
+        }
+    ]
+}
